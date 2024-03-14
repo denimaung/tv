@@ -49,3 +49,18 @@ https://etslive-2-vidio-com.akamaized.net/drm/dash/9182_stream.mpd
 #EXTINF:-1 tvg-id="ChampionsTV6.id" tvg-name="Champions TV 6" tvg-logo="https://thumbor.prod.vidiocdn.com/C4KPuTc3ag2XzBR_ZqMECdK0Xpg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg", Champions TV 6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
 https://etslive-2-vidio-com.akamaized.net/drm/dash/9183_stream.mpd
+
+#EXTGRP:SPORTS
+#EXTINF:-1 tvg-id="bein3.id" tvg-logo="--",bein 3 (Video)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
+https://etslive-2-vidio-com.akamaized.net/drm/dash/6317_stream.mpd
+
+#EXTGRP:SPORTS
+#EXTINF:-1 tvg-id="bein1.id" tvg-logo="--",bein 1 (Video)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
+https://etslive-2-vidio-com.akamaized.net/drm/dash/6299_stream.mpd
+
+#EXTGRP:SPORTS
+#EXTINF:-1 tvg-id="lfctv.id" tvg-logo="--",LFCTV (Video)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
+https://etslive-2-vidio-com.akamaized.net/drm/dash/7916_stream.mpd
