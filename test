@@ -1,0 +1,24 @@
+
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Indosiar.jpg" group-title="Indonesia",INDOSIAR (Vidio)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=205&type=hls
+
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/SCTV.jpg" group-title="Indonesia",SCTV (Video)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=204&type=hls
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/Moji.png" group-title="Indonesia", Moji (Vid)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=206&type=hls
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/TransTV.jpg" group-title="Indonesia",Trans TV (Video)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=733&type=hls
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Trans7.jpg" group-title="Indonesia",Trans 7 (Video)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1=
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=734&type=hls
+
+#EXTINF:-1 tvg-id="NET.id" tvg-logo="https://thumbor.prod.vidiocdn.com/GR_UBfQpa8xxCbFYptSZ3egm-kU=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/cfcc85.png" group-title="Indonesia",NET. (Video)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=875&type=hls
