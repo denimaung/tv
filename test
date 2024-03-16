@@ -71,19 +71,19 @@ http://iptvtree.net:8080/F26646/f950f250/197964
 
 
 #EXTINF:-1  tvg-id="ext" group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png", HBO
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbo.m3u8
+http://iptvtree.net:8080/F26646/f950f250/197972
 
 
 #EXTINF:-1  tvg-id="ext" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png", HBO FAMILY
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbofamily.m3u8
+http://iptvtree.net:8080/F26646/f950f250/197055
 
 
 #EXTINF:-1  tvg-id="ext" group-title="Movies" tvg-logo="https://dl.dropboxusercontent.com/s/9lmchrvt6dfd21s/hbohits.png", HBO HITS
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbohits.m3u8
+http://iptvtree.net:8080/F26646/f950f250/196480
 
 
 #EXTINF:-1  tvg-id="ext" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png", HBO SIGNATURE
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbosig.m3u8
+http://iptvtree.net:8080/F26646/f950f250/221948
 
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg" group-title="TV Nasional Indonesia", INDOSIAR Digital
