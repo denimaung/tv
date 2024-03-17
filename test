@@ -68,7 +68,6 @@ https://etslive-2-vidio-com.akamaized.net/drm/dash/7916_stream.mpd
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" group-title="Movies",Cinemax
 http://iptvtree.net:8080/F14995/a84c0963/197964
-http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/197964
 
 #EXTINF:-1  tvg-id="ext" group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png", HBO id
 http://iptvtree.net:8080/F14995/a84c0963/197972
@@ -92,7 +91,7 @@ http://iptvtree.net:8080/F14995/a84c0963/162138
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/HBO.jpg" tvg-id="HBO.id" tvg-name="HBO" group-title="Movies",HBO
+#EXTINF:-1  tvg-id="ext" group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png", HBO
 #https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 
